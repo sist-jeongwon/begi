@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-lkh;ljj;'k'k';'
+<center>
+  <h1>Hello Git</h1>
+</center>
 </body>
 </html>
